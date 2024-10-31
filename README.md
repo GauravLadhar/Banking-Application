@@ -4,5 +4,3 @@ Developed a Java-based, multi-page banking application that enables secure and s
 
 To start, a customer would first create an account using a secure creation page. The customer would then have the ability to bank using the application. An employee has access to customer details and management tools using a secure login page.
 
-
-
